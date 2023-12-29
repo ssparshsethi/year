@@ -1,0 +1,26 @@
+body
+{
+  font-family: 'Special Elite', cursive;
+  background:url("https://images.herzindagi.info/image/2022/Dec/Wishes-For-Christmas-New-Year-2023-1.jpg");
+}
+.header_div
+  {
+  background: white;
+  color: #ce2700; 
+  }
+h3{
+color:Red;
+font-family: 'Caveat', cursive;
+size:50px;
+}
+h4{
+  color:#ce2700;
+  font-family: 'Caveat', cursive;
+  size:30px;
+}
+div{
+  color:green;
+}
+h2{
+  color:green;
+}
